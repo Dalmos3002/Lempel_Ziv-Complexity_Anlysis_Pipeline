@@ -8,7 +8,7 @@ This repository contains the full Python implementation used in the project:
 - LFP LZC Analyser 
 
 ## Type of files
-– Jupyter notebooks with all analyses
+– Visual Studio code notebooks
 – output files in (.xlsx) format
 
 ## Citation
